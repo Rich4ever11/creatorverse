@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 Name of App Here*
+# WEB103 Prework - Creatorverse
 
-Submitted by: **👉🏿 your name here**
+Submitted by: Richard Aja
 
-About this web app: **👉🏿 app description here**
+About this web app: Web app provides full CRUD functionality when it comes to displaying and working with internet creators
 
-Time spent: **👉🏿 X** hours
+Time spent: 8 hours
 
 ## Required Features
 
