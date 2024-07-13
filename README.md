@@ -38,9 +38,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ![gif1](https://github.com/user-attachments/assets/5f112b9a-8a6c-467f-85a8-588882912f66)
 ![gif](https://github.com/user-attachments/assets/de79d3c3-0df5-48da-b381-2f1e79832310)
 
