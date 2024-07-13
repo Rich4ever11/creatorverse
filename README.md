@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 * [x] List anything else that you added to improve the site's functionality!
 * [x] Utalized Chackra UI to improve the UI of the website
 * [x] Utalized typescript to prevent errors in the future and make sure I know what data is being moved around
+* [x] Instead of using useState for all the form field values I used useReducer (Not very utalized react hook)
 
 
 ## Video Walkthrough
