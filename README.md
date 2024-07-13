@@ -39,7 +39,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 ![gif1](https://github.com/user-attachments/assets/5f112b9a-8a6c-467f-85a8-588882912f66)
+
+
 ![gif](https://github.com/user-attachments/assets/de79d3c3-0df5-48da-b381-2f1e79832310)
+
+
+![gif2](https://github.com/user-attachments/assets/16f0d740-5ad4-4478-b906-8a6dd2cb9dda)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  screen recorder & ezgif
