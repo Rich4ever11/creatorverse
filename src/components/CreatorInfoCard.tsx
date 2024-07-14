@@ -84,8 +84,8 @@ export default function CreatorInfoCard(props: CreatorFormProps) {
         <Image
           objectFit="cover"
           maxW={{ base: "100%", sm: "200px" }}
-          src={imgURL || ""}
-          alt="Caffe Latte"
+          src={imgURL || "./emptyUser.webp"}
+          alt="Creator Image"
         />
 
         <Stack>

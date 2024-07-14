@@ -26,9 +26,7 @@ export default function Hero() {
         maxW="full"
         height="calc(100vh)"
         alignContent={"center"}
-        bgImage={
-          "https://images.unsplash.com/photo-1618224619763-c26996a38420?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        }
+        bgImage={"./hero.avif"}
       >
         <Center>
           <Heading

@@ -25,7 +25,7 @@ import { MdEdit, MdDelete } from "react-icons/md";
 import { useNavigate } from "react-router-dom";
 import { supabase } from "../client";
 import { FaInfo } from "react-icons/fa";
-import { LegacyRef, useRef } from "react";
+import { useRef } from "react";
 
 interface CreatorCardData {
   id: number;
@@ -102,10 +102,7 @@ export default function CreatorCard(props: CreatorCardData) {
     >
       <CardBody>
         <Image
-          src={
-            url ||
-            "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-          }
+          src={url || "./emptyUser.webp"}
           alt="user profile image"
           borderRadius="lg"
         />
